@@ -1,6 +1,3 @@
-[submodule "SwarmEngineOGL/dependencies/glm"]
-	path = SwarmEngineOGL/dependencies/glm
-	url = https://github.com/g-truc/glm.git
 [submodule "SwarmEngineOGL/dependencies/assimp"]
 	path = SwarmEngineOGL/dependencies/assimp
 	url = https://github.com/assimp/assimp.git
